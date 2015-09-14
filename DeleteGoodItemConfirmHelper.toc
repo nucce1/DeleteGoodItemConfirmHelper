@@ -1,0 +1,4 @@
+## Interface: 60200
+## Title: DeleteGoodItemConfirmHelper
+## Notes: Types "delete" into the good item deletion confirmation text box so you can just click once
+DeleteGoodItemConfirmHelper.lua
